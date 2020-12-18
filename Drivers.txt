@@ -1,0 +1,4 @@
+Arduino 1.6 : https://www.arduino.cc/en/main/OldSoftwareReleases
+
+Anaconda : https://www.anaconda.com/products/individual
+
