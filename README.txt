@@ -1,3 +1,5 @@
+Open source Artificial Intelligence for hand prothesis (python with tensorflow).
+
 Follow the steps described in the report in part 3.
 
 - Install the softwares and connect : Myoware -> the Adafruit Feather -> USB Adapter -> PC.
